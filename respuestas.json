@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "pregunta": "¿Qué es esto?",
+      "respuesta": "Este es un chatbot que puede ayudarte a encontrar información sobre nuestros productos y servicios."
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Cuánto cuesta esto?",
+      "respuesta": "El precio de este producto es de $100."
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Cómo puedo comprar esto?",
+      "respuesta": "Puedes comprar este producto en nuestro sitio web o en una de nuestras tiendas."
+    },
+    {"id": 4,
+     "pregunta": "hola",
+     "respuesta": "Hola, como estas, en que te puedo ayudar?"
+    }
+  ]
+  
